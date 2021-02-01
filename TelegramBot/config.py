@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher
 from db import Database
 
-API_TOKEN = "1527686508:AAFWSAfjHBsPff0v556RekyJERx5lHLs0h0"
+API_TOKEN = ""
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
